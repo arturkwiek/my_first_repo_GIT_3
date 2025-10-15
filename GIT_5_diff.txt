@@ -1,0 +1,14 @@
+Wynik polecenia git diff pokazał dwie zmiany:
+
+1. Dodanie nowego pliku: drugi_plik.txt
+   - Plik został utworzony od zera (oznaczenie: new file mode 100644).
+   - Dodano do niego zawartość:
+     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere vestibulum urna ut tincidunt. Integer luctus lacinia augue. Integer risus, ut efficitur ante mollis ut. Duis imperdiet ullamcorper ipsum, vel tempus leo pretium eget. Vivamus ex orci, gravida at lobortis convallis ac risus. Fusce eu cursus velit. Nulla ac molestie urna."
+
+2. Edycja pliku: nowy_plik.txt
+   - Usunięto linię z tekstem:
+     "hello world"
+
+Podsumowanie:
+- Powstał nowy plik o nazwie drugi_plik.txt z tekstem Lorem Ipsum.
+- Z pliku nowy_plik.txt usunięto jedną linię tekstu ("hello world").
