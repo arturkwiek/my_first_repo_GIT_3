@@ -1,0 +1,2 @@
+Baza informacji o klientach w branży kosmetycznej.
+Preferencje klientów często się zmieniają, a jednocześnie przy ich dużej rotacji, często zapamiętać zrealizowane usługi, ich właściwości i szczegóły. Dodatkowo mogą być obsługiwane przez różnych pracowników, mających różne spostrzeżenia i opinie.
