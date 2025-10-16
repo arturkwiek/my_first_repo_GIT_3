@@ -1,0 +1,29 @@
+commit 723b3b27829d848ff6230f1d1dbf40738559e77b
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:28:01 2025 +0200
+
+    Add  GIT_5_diff.txt with change description of git diff
+
+commit 6db2232fc344b5c71218c6f1afe5ba7be41ae9c8
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:16:21 2025 +0200
+
+    Add README.md
+
+commit 7b6c49f6e11dc8eaf12df0261d607220d376a767
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:04:37 2025 +0200
+
+    Add next repo after modification status logs
+
+commit 1602fbdc6702cb0d232f555bb4bd9b74fa7948ee
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 17:58:42 2025 +0200
+
+    Add statuses logs
+
+commit 9b785c7caa9b1374bc58f3652eb2a2d8818ece9b
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 17:56:30 2025 +0200
+
+    initial commit

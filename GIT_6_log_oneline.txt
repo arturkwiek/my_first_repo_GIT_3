@@ -1,0 +1,5 @@
+723b3b2 Add  GIT_5_diff.txt with change description of git diff
+6db2232 Add README.md
+7b6c49f Add next repo after modification status logs
+1602fbd Add statuses logs
+9b785c7 initial commit

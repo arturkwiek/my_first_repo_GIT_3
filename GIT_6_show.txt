@@ -1,0 +1,26 @@
+commit 723b3b27829d848ff6230f1d1dbf40738559e77b
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:28:01 2025 +0200
+
+    Add  GIT_5_diff.txt with change description of git diff
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..6831bfd
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,14 @@
++Wynik polecenia git diff pokazał dwie zmiany:
++
++1. Dodanie nowego pliku: drugi_plik.txt
++   - Plik został utworzony od zera (oznaczenie: new file mode 100644).
++   - Dodano do niego zawartość:
++     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere vestibulum urna ut tincidunt. Integer luctus lacinia augue. Integer risus, ut efficitur ante mollis ut. Duis imperdiet ullamcorper ipsum, vel tempus leo pretium eget. Vivamus ex orci, gravida at lobortis convallis ac risus. Fusce eu cursus velit. Nulla ac molestie urna."
++
++2. Edycja pliku: nowy_plik.txt
++   - Usunięto linię z tekstem:
++     "hello world"
++
++Podsumowanie:
++- Powstał nowy plik o nazwie drugi_plik.txt z tekstem Lorem Ipsum.
++- Z pliku nowy_plik.txt usunięto jedną linię tekstu ("hello world").
