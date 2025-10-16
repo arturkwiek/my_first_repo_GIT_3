@@ -1,0 +1,12 @@
+GIT_1_idea.txt
+GIT_2_version.txt
+GIT_4_restore.txt
+GIT_4_status1.txt
+GIT_4_status2.txt
+GIT_4_status3.txt
+GIT_5_diff.txt
+GIT_6_log.txt
+GIT_6_log_oneline.txt
+GIT_6_show.txt
+GIT_7_ls.txt
+README.md

@@ -3,7 +3,8 @@
 ### Student Name: Artur Kwiek
 ### ID: 5216
 
-
+<<<<<<< HEAD
 Praca z gałęziami i rozwiązywanie konfliktów.
-
+=======
 Tym wpisem chcemy spowodować konflikt.
+>>>>>>> test
