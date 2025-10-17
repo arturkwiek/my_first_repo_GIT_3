@@ -1,0 +1,15 @@
+* 538c419 Add 9 example
+* 7428926 Add diff
+* 3d72e00 Add repository log
+* 162ccd9 Add stash example and rest results
+*   94444bb Solving conflicts
+|\  
+| * e032e91 Prepare for conflict on test side
+| * e85ed4b Modify be ex 7
+* | 2139027 Prepare for conflict
+|/  
+* 723b3b2 Add  GIT_5_diff.txt with change description of git diff
+* 6db2232 Add README.md
+* 7b6c49f Add next repo after modification status logs
+* 1602fbd Add statuses logs
+* 9b785c7 initial commit
