@@ -1,0 +1,10 @@
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   GIT_8_branch.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	GIT_7_branch.txt
+	GIT_8_status.txt
+
