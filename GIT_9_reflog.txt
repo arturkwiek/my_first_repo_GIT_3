@@ -1,0 +1,35 @@
+03e0a77 HEAD@{0}: commit: Add 9 reset example
+7428926 HEAD@{1}: reset: moving to HEAD~1
+538c419 HEAD@{2}: commit (cherry-pick): Add 9 example
+7428926 HEAD@{3}: checkout: moving from test to master
+cb43c45 HEAD@{4}: checkout: moving from master to test
+7428926 HEAD@{5}: checkout: moving from test to master
+cb43c45 HEAD@{6}: checkout: moving from master to test
+7428926 HEAD@{7}: rebase (finish): returning to refs/heads/master
+7428926 HEAD@{8}: rebase (squash): Add diff
+5532e8e HEAD@{9}: rebase (pick): Add diff
+3d72e00 HEAD@{10}: rebase (pick): Add repository log
+162ccd9 HEAD@{11}: rebase (start): checkout HEAD~2
+8694099 HEAD@{12}: rebase (abort): updating HEAD
+162ccd9 HEAD@{13}: rebase (start): checkout HEAD~2
+8694099 HEAD@{14}: commit: Add after stash
+6945bf5 HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+162ccd9 HEAD@{16}: checkout: moving from test to master
+cb43c45 HEAD@{17}: commit: Add diff
+8ada7ed HEAD@{18}: commit: Add repository log
+e032e91 HEAD@{19}: checkout: moving from master to test
+162ccd9 HEAD@{20}: commit: Add stash example and rest results
+94444bb HEAD@{21}: reset: moving to HEAD
+94444bb HEAD@{22}: commit (merge): Solving conflicts
+2139027 HEAD@{23}: checkout: moving from test to master
+e032e91 HEAD@{24}: commit: Prepare for conflict on test side
+e85ed4b HEAD@{25}: checkout: moving from master to test
+2139027 HEAD@{26}: commit: Prepare for conflict
+723b3b2 HEAD@{27}: checkout: moving from test to master
+e85ed4b HEAD@{28}: commit: Modify be ex 7
+723b3b2 HEAD@{29}: checkout: moving from master to test
+723b3b2 HEAD@{30}: commit: Add GIT_5_diff.txt with change description of git diff
+6db2232 HEAD@{31}: commit: Add README.md
+7b6c49f HEAD@{32}: commit: Add next repo after modification status logs
+1602fbd HEAD@{33}: commit: Add statuses logs
+9b785c7 HEAD@{34}: commit (initial): initial commit
