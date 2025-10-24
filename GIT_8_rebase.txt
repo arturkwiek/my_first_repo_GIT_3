@@ -1,0 +1,74 @@
+commit 74289266f066725f201f193a262902481a34cfe8
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Fri Oct 17 22:14:03 2025 +0200
+
+    Add diff
+    
+    Add after stash
+
+commit 3d72e00c2fdd65045eaebbf981be35c7c40595b1
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Fri Oct 17 22:11:35 2025 +0200
+
+    Add repository log
+
+commit 162ccd95b74435918aaa55df43cac82772088728
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Fri Oct 17 21:58:00 2025 +0200
+
+    Add stash example and rest results
+
+commit 94444bbd734a9f2878ffb0ef07c3b3bb08c96bd9
+Merge: 2139027 e032e91
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Thu Oct 16 23:26:13 2025 +0200
+
+    Solving conflicts
+
+commit e032e91900d489aff422dcc0e55ab3ee6e4af74f
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Thu Oct 16 23:21:16 2025 +0200
+
+    Prepare for conflict on test side
+
+commit 21390275c9d96c105caaee65f48a6ad172c81444
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Thu Oct 16 23:20:11 2025 +0200
+
+    Prepare for conflict
+
+commit e85ed4bfe048a8cbaaee0a9220262786d4b4f4fb
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Thu Oct 16 23:16:22 2025 +0200
+
+    Modify be ex 7
+
+commit 723b3b27829d848ff6230f1d1dbf40738559e77b
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:28:01 2025 +0200
+
+    Add  GIT_5_diff.txt with change description of git diff
+
+commit 6db2232fc344b5c71218c6f1afe5ba7be41ae9c8
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:16:21 2025 +0200
+
+    Add README.md
+
+commit 7b6c49f6e11dc8eaf12df0261d607220d376a767
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 18:04:37 2025 +0200
+
+    Add next repo after modification status logs
+
+commit 1602fbdc6702cb0d232f555bb4bd9b74fa7948ee
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 17:58:42 2025 +0200
+
+    Add statuses logs
+
+commit 9b785c7caa9b1374bc58f3652eb2a2d8818ece9b
+Author: Kwiek, Artur <artur.kwiek@wp.pl>
+Date:   Wed Oct 15 17:56:30 2025 +0200
+
+    initial commit

@@ -1,0 +1,29 @@
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	GIT_8_stan.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+ls: 
+GIT_1_idea.txt
+GIT_2_version.txt
+GIT_4_restore.txt
+GIT_4_status1.txt
+GIT_4_status2.txt
+GIT_4_status3.txt
+GIT_5_diff.txt
+GIT_6_log.txt
+GIT_6_log_oneline.txt
+GIT_6_show.txt
+GIT_7_branch.txt
+GIT_7_conflict.txt
+GIT_7_log.txt
+GIT_7_ls.txt
+GIT_7_status.txt
+GIT_8_branch.txt
+GIT_8_diff.txt
+GIT_8_log.txt
+GIT_8_stan.txt
+GIT_8_stash_list.txt
+GIT_8_status.txt
+README.md
